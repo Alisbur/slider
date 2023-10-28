@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2d7a802.css",
+    "main.js": "/static/js/main.d97f2103.js",
+    "static/media/Michroma-Regular.ttf": "/static/media/Michroma-Regular.4c2e0f98a40551a60fa7.ttf",
+    "static/media/KumbhSans-SemiBold.ttf": "/static/media/KumbhSans-SemiBold.71cc92fe4a295dfeab3c.ttf",
+    "static/media/KumbhSans-Medium.ttf": "/static/media/KumbhSans-Medium.1cbd53a4860c5c909d56.ttf",
+    "static/media/1.jpg": "/static/media/1.24fd790c3f3cd341e76e.jpg",
+    "index.html": "/index.html",
+    "main.d2d7a802.css.map": "/static/css/main.d2d7a802.css.map",
+    "main.d97f2103.js.map": "/static/js/main.d97f2103.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2d7a802.css",
+    "static/js/main.d97f2103.js"
+  ]
+}
