@@ -1,0 +1,37 @@
+.header {
+  width: 100%;
+  background-color: #FFF;
+  margin: 0;
+
+  &__content {
+    margin: 0 auto;
+    max-width: 1920px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+  }
+
+  &__title {
+    color: #000;
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  &__logo {
+    width: 100px;
+  }
+
+  &__link {
+    color: #000;
+    text-decoration: none;
+    opacity: 1
+  }
+
+  &__link:hover {
+    opacity: 0.7;
+    transition: opacity 0.5s ease-in;
+  }
+}
+
+

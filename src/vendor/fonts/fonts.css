@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'KumbhSans';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("KumbhSans-Medium.ttf") format("ttf"),
+  }
+
+  @font-face {
+     font-family: 'KumbhSans';
+     font-style:  normal;
+     font-weight: 500;
+     font-display: swap;
+     src: url("KumbhSans-Medium.ttf") format("ttf"),
+   }
+
+   @font-face {
+     font-family: 'KumbhSans';
+     font-style:  normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url("KumbhSans-SemiBold.ttf") format("ttf"),
+   }
+
+   @font-face {
+     font-family: 'Michroma';
+     font-style:  normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url("Michroma-Regular.ttf") format("ttf"),
+   }
